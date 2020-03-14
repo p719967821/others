@@ -1,0 +1,21 @@
+h1.tilcolor{
+    color:blue;
+    background-color:yellow;
+    text-align: center;
+}
+body{
+    text-indent: 0em;
+    font-family: sans-serif;
+}
+a:link{
+    background-color: chocolate;
+}
+a:visited{
+    background-color: cornflowerblue;
+}
+a:hover{
+    background-color: #000;
+}
+a:active{
+    background-color: darkorange;
+}
